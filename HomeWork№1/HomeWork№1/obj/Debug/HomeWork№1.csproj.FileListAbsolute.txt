@@ -1,7 +1,0 @@
-D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1\bin\Debug\HomeWork№1.exe.config
-D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1\bin\Debug\HomeWork№1.exe
-D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1\bin\Debug\HomeWork№1.pdb
-D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1\obj\Debug\HomeWork№1.csprojAssemblyReference.cache
-D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1\obj\Debug\HomeWork№1.csproj.CoreCompileInputs.cache
-D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1\obj\Debug\HomeWork№1.exe
-D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1\obj\Debug\HomeWork№1.pdb
