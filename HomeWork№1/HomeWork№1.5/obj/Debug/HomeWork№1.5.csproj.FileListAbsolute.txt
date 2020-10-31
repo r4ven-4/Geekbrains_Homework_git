@@ -1,0 +1,9 @@
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.5\bin\Debug\HomeWork№1.5.exe.config
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.5\bin\Debug\HomeWork№1.5.exe
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.5\bin\Debug\HomeWork№1.5.pdb
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.5\bin\Debug\LibraryСsharpGeakbriensLessons.dll
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.5\bin\Debug\LibraryСsharpGeakbriensLessons.pdb
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.5\obj\Debug\HomeWork№1.5.csproj.CoreCompileInputs.cache
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.5\obj\Debug\HomeWork№1.5.csproj.CopyComplete
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.5\obj\Debug\HomeWork№1.5.exe
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.5\obj\Debug\HomeWork№1.5.pdb

@@ -1,0 +1,6 @@
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.2\bin\Debug\HomeWork№1.2.exe.config
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.2\bin\Debug\HomeWork№1.2.exe
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.2\bin\Debug\HomeWork№1.2.pdb
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.2\obj\Debug\HomeWork№1.2.csproj.CoreCompileInputs.cache
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.2\obj\Debug\HomeWork№1.2.exe
+D:\Flesh-Disk\GeekBreins\Основы языка C#\HomeWork№1\HomeWork№1.2\obj\Debug\HomeWork№1.2.pdb
