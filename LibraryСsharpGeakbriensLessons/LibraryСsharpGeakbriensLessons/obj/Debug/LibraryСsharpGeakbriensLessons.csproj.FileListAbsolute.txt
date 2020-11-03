@@ -1,0 +1,6 @@
+D:\Flesh-Disk\GeekBreins\Основы языка C#\LibraryСsharpGeakbriensLessons\LibraryСsharpGeakbriensLessons\bin\Debug\LibraryСsharpGeakbriensLessons.dll
+D:\Flesh-Disk\GeekBreins\Основы языка C#\LibraryСsharpGeakbriensLessons\LibraryСsharpGeakbriensLessons\bin\Debug\LibraryСsharpGeakbriensLessons.pdb
+D:\Flesh-Disk\GeekBreins\Основы языка C#\LibraryСsharpGeakbriensLessons\LibraryСsharpGeakbriensLessons\obj\Debug\LibraryСsharpGeakbriensLessons.csprojAssemblyReference.cache
+D:\Flesh-Disk\GeekBreins\Основы языка C#\LibraryСsharpGeakbriensLessons\LibraryСsharpGeakbriensLessons\obj\Debug\LibraryСsharpGeakbriensLessons.csproj.CoreCompileInputs.cache
+D:\Flesh-Disk\GeekBreins\Основы языка C#\LibraryСsharpGeakbriensLessons\LibraryСsharpGeakbriensLessons\obj\Debug\LibraryСsharpGeakbriensLessons.dll
+D:\Flesh-Disk\GeekBreins\Основы языка C#\LibraryСsharpGeakbriensLessons\LibraryСsharpGeakbriensLessons\obj\Debug\LibraryСsharpGeakbriensLessons.pdb

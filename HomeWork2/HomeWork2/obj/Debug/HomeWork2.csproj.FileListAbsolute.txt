@@ -1,0 +1,10 @@
+D:\Flesh-Disk\GeekBreins\Основы языка C#\Git_HomeWork\Geekbrains_Homework_git\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+D:\Flesh-Disk\GeekBreins\Основы языка C#\Git_HomeWork\Geekbrains_Homework_git\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+D:\Flesh-Disk\GeekBreins\Основы языка C#\Git_HomeWork\Geekbrains_Homework_git\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+D:\Flesh-Disk\GeekBreins\Основы языка C#\Git_HomeWork\Geekbrains_Homework_git\HomeWork2\HomeWork2\bin\Debug\LibraryСsharpGeakbriensLessons.dll
+D:\Flesh-Disk\GeekBreins\Основы языка C#\Git_HomeWork\Geekbrains_Homework_git\HomeWork2\HomeWork2\bin\Debug\LibraryСsharpGeakbriensLessons.pdb
+D:\Flesh-Disk\GeekBreins\Основы языка C#\Git_HomeWork\Geekbrains_Homework_git\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+D:\Flesh-Disk\GeekBreins\Основы языка C#\Git_HomeWork\Geekbrains_Homework_git\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+D:\Flesh-Disk\GeekBreins\Основы языка C#\Git_HomeWork\Geekbrains_Homework_git\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CopyComplete
+D:\Flesh-Disk\GeekBreins\Основы языка C#\Git_HomeWork\Geekbrains_Homework_git\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+D:\Flesh-Disk\GeekBreins\Основы языка C#\Git_HomeWork\Geekbrains_Homework_git\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
