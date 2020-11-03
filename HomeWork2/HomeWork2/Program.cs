@@ -14,7 +14,6 @@ namespace HomeWork_2
         static public string UserLogin = "root", UserPassword = "Geekbrains";
         static void Main(string[] args)
         {
-            GoodNumber();
 
             Geek.Pause();
         }
